@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .gift one-word domains from Unique
 
 **Public extract:** 9,279 rows · **Live catalog:** 9,279 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/gift`  
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | athletics.gift  | available | $23.98     | —             | 69             | 52     | 9      | namecheap                     |
 | sex.gift        | resell    | —          | —             | 98             | 59     | 3      | Dynadot, LLC                  |
 | simple.gift     | premium   | $150       | $150          | 128            | 48     | 6      | name.com                      |
-| based.gift      | available | $23.98     | —             | 82             | 45     | 5      | namecheap                     |
+| based.gift      | available | $23.98     | —             | 82             | 47     | 5      | namecheap                     |
 | just.gift       | resell    | —          | —             | 150            | 48     | 4      | NameSilo, LLC                 |
 | all.gift        | premium   | $150       | $150          | 88             | 48     | 3      | name.com                      |
 | forge.gift      | available | $23.98     | —             | 62             | 45     | 5      | namecheap                     |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
