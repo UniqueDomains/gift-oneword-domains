@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C279%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C280%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C279%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .gift one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,279 rows · **Live catalog:** 9,279 domains
+**Public extract:** 9,280 rows · **Live catalog:** 9,279 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/gift`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GIFT one-word domain 
 
 ### Files
 
-- `gift.csv` — public CSV extract (9,279 rows)
-- `gift.json` — public JSON extract (9,279 rows)
+- `gift.csv` — public CSV extract (9,280 rows)
+- `gift.json` — public JSON extract (9,280 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -72,14 +72,14 @@ print(df.head())
 | live.gift       | premium   | $150       | $150          | 108            | 56     | 4      | name.com                      |
 | zero.gift       | available | $23.98     | —             | 81             | 53     | 4      | namecheap                     |
 | fantastic.gift  | resell    | —          | —             | 88             | 62     | 9      | 1API GmbH                     |
-| air.gift        | premium   | $156       | $156          | 84             | 49     | 3      | namecheap                     |
+| simple.gift     | premium   | $150       | $150          | 128            | 49     | 6      | name.com                      |
 | athletics.gift  | available | $23.98     | —             | 69             | 52     | 9      | namecheap                     |
 | sex.gift        | resell    | —          | —             | 98             | 59     | 3      | Dynadot, LLC                  |
-| simple.gift     | premium   | $150       | $150          | 128            | 48     | 6      | name.com                      |
+| air.gift        | premium   | $156       | $156          | 84             | 49     | 3      | namecheap                     |
 | based.gift      | available | $23.98     | —             | 82             | 47     | 5      | namecheap                     |
 | just.gift       | resell    | —          | —             | 150            | 48     | 4      | NameSilo, LLC                 |
 | all.gift        | premium   | $150       | $150          | 88             | 48     | 3      | name.com                      |
-| forge.gift      | available | $23.98     | —             | 62             | 45     | 5      | namecheap                     |
+| forge.gift      | available | $23.98     | —             | 62             | 44     | 5      | namecheap                     |
 | gold.gift       | resell    | —          | —             | 72             | 48     | 4      | Dynadot, LLC                  |
 | big.gift        | premium   | $150       | $150          | 88             | 47     | 3      | name.com                      |
 | energy.gift     | available | $23.98     | —             | 82             | 43     | 6      | namecheap                     |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,279-row public sample | 9,279 live domains                               |
+| 9,280-row public sample | 9,279 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
