@@ -1,22 +1,22 @@
-# Available .GIFT One-Word Domains (9,279)
+# Available .GIFT One-Word Domains (11,655)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C280%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C279%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C655%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .gift one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .gift one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,655 domains** on the canonical page below.
 
-**Public extract:** 9,280 rows · **Live catalog:** 9,279 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,655 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/gift`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GIFT one-word domain 
 
 ### Files
 
-- `gift.csv` — public CSV extract (9,280 rows)
-- `gift.json` — public JSON extract (9,280 rows)
+- `gift.csv` — public CSV extract (1,000 rows)
+- `gift.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                     |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| nationwide.gift | available | $23.98     | —             | 76             | 66     | 10     | namecheap                     |
-| one.gift        | resell    | $40,767.50 | $29.99        | 132            | 50     | 3      | West263 International Limited |
-| ace.gift        | premium   | $150       | $150          | 88             | 57     | 3      | name.com                      |
-| seventeen.gift  | available | $23.98     | —             | 84             | 62     | 9      | namecheap                     |
-| hello.gift      | resell    | —          | —             | 130            | 70     | 5      | Name.com, Inc.                |
-| live.gift       | premium   | $150       | $150          | 108            | 56     | 4      | name.com                      |
-| zero.gift       | available | $23.98     | —             | 81             | 53     | 4      | namecheap                     |
-| fantastic.gift  | resell    | —          | —             | 88             | 62     | 9      | 1API GmbH                     |
-| simple.gift     | premium   | $150       | $150          | 128            | 49     | 6      | name.com                      |
-| athletics.gift  | available | $23.98     | —             | 69             | 52     | 9      | namecheap                     |
-| sex.gift        | resell    | —          | —             | 98             | 59     | 3      | Dynadot, LLC                  |
-| air.gift        | premium   | $156       | $156          | 84             | 49     | 3      | namecheap                     |
-| based.gift      | available | $23.98     | —             | 82             | 47     | 5      | namecheap                     |
-| just.gift       | resell    | —          | —             | 150            | 48     | 4      | NameSilo, LLC                 |
-| all.gift        | premium   | $150       | $150          | 88             | 48     | 3      | name.com                      |
-| forge.gift      | available | $23.98     | —             | 62             | 44     | 5      | namecheap                     |
-| gold.gift       | resell    | —          | —             | 72             | 48     | 4      | Dynadot, LLC                  |
-| big.gift        | premium   | $150       | $150          | 88             | 47     | 3      | name.com                      |
-| energy.gift     | available | $23.98     | —             | 82             | 43     | 6      | namecheap                     |
-| video.gift      | resell    | —          | —             | 106            | 47     | 5      | 1API GmbH                     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| RedSox.gift   | available | $23.98    | —             | 72             | 60     | 7      | namecheap     |
+| europe.gift   | resell    | —         | —             | 68             | 36     | 6      | NameSilo, LLC |
+| cars.gift     | premium   | $150      | —             | 66             | 47     | 4      | name.com      |
+| Tools.gift    | available | $23.98    | —             | 56             | 40     | 5      | namecheap     |
+| jobs.gift     | premium   | $150      | —             | 79             | 42     | 4      | name.com      |
+| justin.gift   | available | $23.98    | —             | 58             | 38     | 7      | namecheap     |
+| events.gift   | premium   | $150      | —             | 68             | 37     | 6      | name.com      |
+| homes.gift    | available | $23.98    | —             | 86             | 34     | 5      | namecheap     |
+| tickets.gift  | premium   | $150      | —             | 64             | 34     | 7      | name.com      |
+| William.gift  | available | $23.98    | —             | 74             | 31     | 7      | namecheap     |
+| Cats.gift     | premium   | $168      | $168          | 59             | 33     | 4      | namecheap     |
+| letsgo.gift   | available | $23.98    | —             | 57             | 31     | 7      | namecheap     |
+| Jim.gift      | premium   | $168      | $168          | 78             | 28     | 3      | namecheap     |
+| spaces.gift   | available | $23.98    | —             | 54             | 30     | 6      | namecheap     |
+| pictures.gift | premium   | $150      | —             | 82             | 17     | 8      | name.com      |
+| videos.gift   | available | $23.98    | —             | 52             | 30     | 6      | namecheap     |
+| mothers.gift  | premium   | $150      | —             | 68             | 12     | 7      | name.com      |
+| SanDiego.gift | available | $14.99    | $14.99        | 74             | 29     | 9      | namesilo      |
+| presents.gift | premium   | $150      | —             | 80             | 9      | 8      | name.com      |
+| heroes.gift   | available | $23.98    | —             | 68             | 29     | 6      | namecheap     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,280-row public sample | 9,279 live domains                               |
+| 1,000-row public sample | 11,655 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
