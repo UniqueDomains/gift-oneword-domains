@@ -1,10 +1,10 @@
-# Available .GIFT One-Word Domains (12,209)
+# Available .GIFT One-Word Domains (12,213)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C209%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C213%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gift one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,209 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,213 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,209 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,213 domains · **Median ask:** $41.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/gift`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
 | RedSox.gift   | available | $23.98    | —             | 72             | 60     | 7      | namecheap     |
-| europe.gift   | resell    | —         | —             | 68             | 36     | 6      | NameSilo, LLC |
+| europe.gift   | resell    | —         | —             | 68             | 38     | 6      | NameSilo, LLC |
 | cars.gift     | premium   | $150      | —             | 66             | 47     | 4      | name.com      |
 | Tools.gift    | available | $23.98    | —             | 56             | 40     | 5      | namecheap     |
 | jobs.gift     | premium   | $150      | —             | 79             | 42     | 4      | name.com      |
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,209 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,213 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely made up of one-word .gift domains, which makes it useful for buyers seeking a tight naming category rather than mixed extensions or multi-word names. The words range from broad terms like leave.gift, count.gift, style.gift, and ones.gift to sharper or more sensitive terms like fuck.gift, bareback.gift, injury.gift, and murder.gift. That spread matters. When comparing these domains, start with whether the word naturally fits gifting, occasions, retail, or campaign use. Then weigh the median ask of 41.93 against the reality that .gift is a niche extension, so renewal economics and end-buyer fit should be checked carefully before committing.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this set use the .gift extension
+- Median ask is 41.93 across 12,213 domains
+- Broad words tend to be easier to position than edgy terms
+- Check renewal cost before treating a low ask as a deal
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -38,6 +38,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0271e8b9-13b3-4be3-8143-c01f74a19206,disappoints.gift,available,14.99,14.99,36,1,11,namesilo,,
 028bfe6f-bfc5-45f6-940c-4e4e7f49194a,wins.gift,available,23.98,,68,21,4,namecheap,,
 028eadea-133f-4737-8844-8b2ca2ef9b9f,yawned.gift,available,14.99,14.99,53,2,6,namesilo,,
+0295da62-701c-4564-ae57-f39365b3341c,bee.gift,premium,,,70,43,3,,,
 02a78d99-8855-4182-9c28-cd6cfafcb69f,lordoftherings.gift,available,23.98,,80,5,17,namecheap,,
 02e056f0-9948-45f5-a7b9-92e139c7a161,paradoxes.gift,available,14.99,14.99,70,3,9,namesilo,,
 0300079f-3a70-49d5-8846-c9ce2b072d94,rollercoaster.gift,available,23.98,,69,8,14,namecheap,,
@@ -201,7 +202,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1098b9fd-e23f-42fd-8f7f-907572da29ec,pls.gift,available,23.98,,60,23,3,namecheap,,
 10b5bbbd-5973-4aaa-bf3e-5705d36ced50,wipes.gift,available,14.99,14.99,56,8,5,namesilo,,
 10bd2c71-3adf-44b6-aaab-3790a99fbe4c,devoured.gift,available,14.99,14.99,40,3,8,namesilo,,
-10caf831-c27d-4ce2-92f6-1f1808bef19f,europe.gift,resell,,,68,36,6,"NameSilo, LLC",11/09/2025 06:20,11/09/2026 06:20
+10caf831-c27d-4ce2-92f6-1f1808bef19f,europe.gift,resell,,,68,38,6,"NameSilo, LLC",11/09/2025 06:20,11/09/2026 06:20
 10cd54c2-67c3-4bf8-8f36-6538e14347f9,cuttothechase.gift,available,23.98,,68,4,16,namecheap,,
 10ebd53c-1289-42f5-bf3e-1261d5489616,seperately.gift,available,23.98,,48,1,10,namecheap,,
 110f3be5-6c3d-406b-9d58-9b06ddb22a45,replied.gift,available,23.98,,58,4,7,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53ca29de-ee57-4920-82bc-237826cc29e3,amplifiers.gift,available,23.98,,56,4,10,namecheap,,
 53e40f20-714e-4448-8217-09f67ade8222,attends.gift,available,23.98,,54,6,7,namecheap,,
 53e7b8a7-1550-4fbb-8d25-1e2920d38eda,manyonereducible.gift,available,14.99,14.99,46,1,18,namesilo,,
-53ee2502-0681-4f0c-8067-1f0fce4aef4c,differed.gift,available,14.99,14.99,48,2,8,namesilo,,
