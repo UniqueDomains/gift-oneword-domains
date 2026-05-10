@@ -68,6 +68,7 @@ print(df.head())
 | europe.gift   | resell    | —         | —             | 68             | 38     | 6      | NameSilo, LLC |
 | cars.gift     | premium   | $150      | —             | 66             | 47     | 4      | name.com      |
 | Tools.gift    | available | $23.98    | —             | 56             | 40     | 5      | namecheap     |
+| lol.gift      | resell    | —         | —             | 76             | 36     | 3      | NAMECHEAP     |
 | jobs.gift     | premium   | $150      | —             | 79             | 42     | 4      | name.com      |
 | justin.gift   | available | $23.98    | —             | 58             | 38     | 7      | namecheap     |
 | events.gift   | premium   | $150      | —             | 68             | 37     | 6      | name.com      |
@@ -83,7 +84,6 @@ print(df.head())
 | presents.gift | premium   | $150      | —             | 80             | 9      | 8      | name.com      |
 | heroes.gift   | available | $23.98    | —             | 68             | 29     | 6      | namecheap     |
 | ties.gift     | premium   | $150      | —             | 59             | 9      | 4      | name.com      |
-| blocks.gift   | available | $23.98    | —             | 53             | 29     | 6      | namecheap     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

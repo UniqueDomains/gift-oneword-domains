@@ -797,6 +797,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 42ab1a6d-5ece-4ddf-97b7-5c9a70031e31,DakotaCounty.gift,available,23.98,,52,2,13,namecheap,,
 42cf47d8-a70c-4455-be8d-6964fdc9cbf5,haircuts.gift,available,14.99,14.99,60,6,8,namesilo,,
 42d5426c-f95c-4ad7-939c-3f08982963c4,axes.gift,available,23.98,,36,10,4,namecheap,,
+42d7d6f8-43c3-44a0-b8b7-30a44d3e0fd9,lol.gift,resell,,,76,36,3,NAMECHEAP,26/11/2025 02:19,26/11/2026 02:19
 42e56843-581f-4656-b42b-789293a8e764,seemed.gift,available,23.98,,58,4,6,namecheap,,
 42e5b1d4-a48a-42bf-814d-4032542e3115,liberties.gift,available,23.98,,56,6,9,namecheap,,
 42ecdb80-3b98-4b00-bbc8-dffdc39d1631,pricetosell.gift,available,23.98,,64,1,13,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53b8f9fc-b820-4afa-9784-e6142a872d2d,coffeeaulait.gift,available,23.98,,72,1,14,namecheap,,
 53ca29de-ee57-4920-82bc-237826cc29e3,amplifiers.gift,available,23.98,,56,4,10,namecheap,,
 53e40f20-714e-4448-8217-09f67ade8222,attends.gift,available,23.98,,54,6,7,namecheap,,
-53e7b8a7-1550-4fbb-8d25-1e2920d38eda,manyonereducible.gift,available,14.99,14.99,46,1,18,namesilo,,
