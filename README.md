@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .gift one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,215 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,215 domains · **Median ask:** $41.93 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,215 domains · **Median ask:** $28.19 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gift`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gift`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GIFT one-word domain 
 
 ### Files
 
-- `gift.csv` — public CSV extract (1,000 rows)
-- `gift.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gift.csv`, public CSV extract (1,000 rows)
+- `gift.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| RedSox.gift   | available | $23.98    | —             | 72             | 60     | 7      | namecheap     |
-| europe.gift   | resell    | —         | —             | 68             | 38     | 6      | NameSilo, LLC |
-| cars.gift     | premium   | $150      | —             | 66             | 47     | 4      | name.com      |
-| Tools.gift    | available | $23.98    | —             | 56             | 40     | 5      | namecheap     |
-| lol.gift      | resell    | —         | —             | 76             | 36     | 3      | NAMECHEAP     |
-| jobs.gift     | premium   | $150      | —             | 79             | 42     | 4      | name.com      |
-| justin.gift   | available | $23.98    | —             | 58             | 38     | 7      | namecheap     |
-| events.gift   | premium   | $150      | —             | 68             | 37     | 6      | name.com      |
-| homes.gift    | available | $23.98    | —             | 86             | 34     | 5      | namecheap     |
-| tickets.gift  | premium   | $150      | —             | 64             | 34     | 7      | name.com      |
-| William.gift  | available | $23.98    | —             | 74             | 31     | 7      | namecheap     |
-| Jim.gift      | premium   | $168      | $168          | 78             | 28     | 3      | namecheap     |
-| letsgo.gift   | available | $23.98    | —             | 57             | 31     | 7      | namecheap     |
-| pictures.gift | premium   | $150      | —             | 82             | 17     | 8      | name.com      |
-| spaces.gift   | available | $23.98    | —             | 54             | 30     | 6      | namecheap     |
-| mothers.gift  | premium   | $150      | —             | 68             | 12     | 7      | name.com      |
-| SanDiego.gift | available | $14.99    | $14.99        | 74             | 29     | 9      | namesilo      |
-| presents.gift | premium   | $150      | —             | 80             | 9      | 8      | name.com      |
-| heroes.gift   | available | $23.98    | —             | 68             | 29     | 6      | namecheap     |
-| ties.gift     | premium   | $150      | —             | 59             | 9      | 4      | name.com      |
+| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                          |
+| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| BJP.gift         | available | $23.98     | —             | medium         | low    | 3      | namecheap                          |
+| one.gift         | resell    | $40,767.50 | $29.99        | high           | medium | 3      | West263 International Limited      |
+| aid.gift         | premium   | $150       | —             | medium         | low    | 3      | name.com                           |
+| btw.gift         | available | $14.99     | $14.99        | high           | low    | 3      | namesilo                           |
+| change.gift      | resell    | —          | —             | high           | medium | 6      | NAMECHEAP                          |
+| ala.gift         | premium   | $150       | —             | high           | low    | 3      | name.com                           |
+| CNN.gift         | available | $14.99     | $14.99        | high           | low    | 3      | namesilo                           |
+| random.gift      | resell    | —          | —             | high           | medium | 6      | Porkbun LLC                        |
+| ane.gift         | premium   | $150       | $150          | low            | low    | 3      | name.com                           |
+| gal.gift         | available | $14.99     | $14.99        | medium         | low    | 3      | namesilo                           |
+| unlimited.gift   | resell    | —          | —             | high           | low    | 9      | Porkbun LLC                        |
+| axe.gift         | premium   | $150       | —             | medium         | low    | 3      | name.com                           |
+| mao.gift         | available | $23.98     | —             | medium         | low    | 3      | namecheap                          |
+| JesusChrist.gift | resell    | —          | —             | high           | low    | 12     | Global Domains International, Inc. |
+| big.gift         | premium   | $150       | $150          | high           | medium | 3      | name.com                           |
+| pre.gift         | available | $14.99     | $14.99        | medium         | low    | 3      | namesilo                           |
+| dew.gift         | premium   | $150       | —             | medium         | low    | 3      | name.com                           |
+| TBD.gift         | available | $23.98     | —             | high           | low    | 3      | namecheap                          |
+| feb.gift         | premium   | $150       | —             | high           | low    | 3      | name.com                           |
+| ahuh.gift        | available | $14.99     | $14.99        | high           | low    | 4      | namesilo                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .gift domains, which makes it useful for buyers seeking a tight naming category rather than mixed extensions or multi-word names. The words range from broad terms like leave.gift, count.gift, style.gift, and ones.gift to sharper or more sensitive terms like fuck.gift, bareback.gift, injury.gift, and murder.gift. That spread matters. When comparing these domains, start with whether the word naturally fits gifting, occasions, retail, or campaign use. Then weigh the median ask of 41.93 against the reality that .gift is a niche extension, so renewal economics and end-buyer fit should be checked carefully before committing.
+This selection covers 12,215 .gift domain names, spanning single words such as presents.gift and destination.gift to short compound phrases like mealsonwheels.gift and windowshop.gift. The .gift extension signals gift-giving, celebration, and occasion-based use cases, which suits e-commerce stores, registries, and gifting services. Asking prices across this set carry a median of about $28, keeping most names within reach of a modest budget. When comparing these domains, prioritize short, easy-to-spell names and check renewal pricing before committing to a purchase.
 
-- All names in this set use the .gift extension
-- Median ask is 41.93 across 12,213 domains
-- Broad words tend to be easier to position than edgy terms
-- Check renewal cost before treating a low ask as a deal
+- 12,215 .gift domain names, both one-word and compound phrases
+- Median asking price around $28 across this set
+- Gift-themed names like presents.gift and cometrue.gift
+- Compare spelling, length, and renewal cost before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
