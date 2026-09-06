@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gift one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,267 domains · **Median ask:** $22.51 · **High-demand under $2,500:** 40
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/gift`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                          |
 | ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| okay.gift        | available | $14.99     | $14.99        | high           | low    | 4      | namesilo                           |
-| feel.gift        | available | $14.99     | $14.99        | high           | low    | 4      | namesilo                           |
 | BJP.gift         | available | $23.98     | —             | medium         | low    | 3      | namecheap                          |
 | one.gift         | resell    | $40,767.50 | $29.99        | high           | medium | 3      | West263 International Limited      |
 | aid.gift         | premium   | $150       | —             | medium         | low    | 3      | name.com                           |
@@ -84,6 +82,8 @@ print(df.head())
 | pre.gift         | available | $14.99     | $14.99        | medium         | low    | 3      | namesilo                           |
 | big.gift         | premium   | $150       | $150          | high           | medium | 3      | name.com                           |
 | TBD.gift         | available | $23.98     | —             | high           | low    | 3      | namecheap                          |
+| bum.gift         | premium   | $150       | $150          | low            | low    | 3      | name.com                           |
+| ahuh.gift        | available | $14.99     | $14.99        | high           | low    | 4      | namesilo                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
