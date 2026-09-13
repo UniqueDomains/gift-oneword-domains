@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gift one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,997 domains · **Median ask:** $21.81 · **High-demand under $2,500:** 44
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/gift`
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | change.gift      | resell    | —          | —             | high           | medium | 6      | NAMECHEAP                          |
 | ala.gift         | premium   | $150       | —             | high           | low    | 3      | name.com                           |
 | CNN.gift         | available | $14.99     | $14.99        | high           | low    | 3      | namesilo                           |
-| random.gift      | resell    | —          | —             | high           | medium | 6      | Porkbun LLC                        |
+| random.gift      | resell    | —          | —             | medium         | medium | 6      | Porkbun LLC                        |
 | ane.gift         | premium   | $150       | $150          | low            | low    | 3      | name.com                           |
 | gal.gift         | available | $14.99     | $14.99        | medium         | low    | 3      | namesilo                           |
 | unlimited.gift   | resell    | —          | —             | high           | low    | 9      | Porkbun LLC                        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
