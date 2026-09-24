@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gift one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,925 domains · **Median ask:** $20.62 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/gift`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                          |
 | ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| feel.gift        | available | $14.99     | $14.99        | high           | low    | 4      | namesilo                           |
 | bjp.gift         | available | $23.98     | —             | medium         | low    | 3      | namecheap                          |
 | one.gift         | resell    | $40,767.50 | $29.99        | medium         | low    | 3      | West263 International Limited      |
 | aid.gift         | premium   | $150       | —             | medium         | low    | 3      | name.com                           |
@@ -83,7 +84,6 @@ print(df.head())
 | big.gift         | premium   | $156       | $156          | medium         | low    | 3      | namecheap                          |
 | tbd.gift         | available | $23.98     | —             | high           | low    | 3      | namecheap                          |
 | bum.gift         | premium   | $150       | $150          | low            | low    | 3      | name.com                           |
-| ahuh.gift        | available | $14.99     | $14.99        | high           | low    | 4      | namesilo                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
