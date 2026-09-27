@@ -1,10 +1,10 @@
-# Available .GIFT One-Word Domains (23,169)
+# Available .GIFT One-Word Domains (23,578)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C169%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C578%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gift one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,169 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,578 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,169 domains · **Median ask:** $22.39 · **High-demand under $2,500:** 77
+**Public extract:** 1,000 rows · **Live catalog:** 23,578 domains · **Median ask:** $22.39 · **High-demand under $2,500:** 83
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/gift`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| eta.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
-| sex.gift       | resell    | —         | —             | high           | medium | 3      | Dynadot, LLC                       |
-| age.gift       | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo                           |
-| hdl.gift       | available | $20.98    | $23.98        | high           | low    | 3      | namecheap                          |
+| atc.gift       | available | $20.98    | $23.98        | high           | low    | 3      | namecheap                          |
 | safe.gift      | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC                       |
-| ara.gift       | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo                           |
-| jot.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
+| age.gift       | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo                           |
+| eta.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
 | health.gift    | resell    | —         | —             | high           | medium | 6      | NameSilo, LLC                      |
-| auc.gift       | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo                           |
-| nun.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
+| ara.gift       | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo                           |
+| hdl.gift       | available | $20.98    | $23.98        | high           | low    | 3      | namecheap                          |
 | amazing.gift   | resell    | —         | —             | high           | low    | 7      | Dynadot, LLC                       |
-| ayr.gift       | premium   | $156      | $156          | high           | low    | 3      | namecheap                          |
-| nyt.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
+| auc.gift       | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo                           |
+| jot.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
 | fashion.gift   | resell    | —         | —             | high           | medium | 7      | NameSilo, LLC                      |
-| cub.gift       | premium   | $156      | $156          | high           | low    | 3      | namecheap                          |
-| pcp.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
+| ayr.gift       | premium   | $156      | $156          | high           | low    | 3      | namecheap                          |
+| nun.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
 | corporate.gift | resell    | —         | —             | high           | low    | 9      | Global Domains International, Inc. |
+| cub.gift       | premium   | $156      | $156          | high           | low    | 3      | namecheap                          |
+| nyt.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
 | eon.gift       | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo                           |
-| tan.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
+| pcp.gift       | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                           |
 | fey.gift       | premium   | $150      | $150          | medium         | low    | 3      | name.com                           |
+| pri.gift       | available | $14.99    | $14.99        | high           | high   | 3      | namesilo                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,169 live domains                        |
+| 1,000-row public sample | 23,578 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 77 high-demand names under $2,500          |
+| Basic exported fields   | 83 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
