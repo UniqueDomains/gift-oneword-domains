@@ -1,10 +1,10 @@
-# Available .GIFT One-Word Domains (33,030)
+# Available .GIFT One-Word Domains (35,425)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C030%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C425%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gift one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,030 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,425 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,030 domains · **Median ask:** $22.59 · **High-demand under $2,500:** 140
+**Public extract:** 1,000 rows · **Live catalog:** 35,425 domains · **Median ask:** $22.73 · **High-demand under $2,500:** 148
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/gift`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | bmw.gift    | available | $14.99    | $14.99        | high           | high   | 3      | namesilo      |
 | health.gift | resell    | —         | —             | high           | medium | 6      | NameSilo, LLC |
 | age.gift    | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo      |
-| djs.gift    | available | $20.98    | $23.98        | medium         | low    | 3      | namecheap     |
+| det.gift    | available | $16.58    | $16.58        | high           | low    | 3      | porkbun       |
 | ara.gift    | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo      |
-| eta.gift    | available | $14.99    | $14.99        | high           | low    | 3      | namesilo      |
+| djs.gift    | available | $20.98    | $23.98        | medium         | low    | 3      | namecheap     |
 | auc.gift    | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo      |
-| hdl.gift    | available | $20.98    | $23.98        | high           | low    | 3      | namecheap     |
+| dmz.gift    | available | $20.98    | $23.98        | high           | low    | 3      | namecheap     |
 | ayr.gift    | premium   | $156      | $156          | high           | low    | 3      | namecheap     |
-| hoo.gift    | available | $14.99    | $14.99        | medium         | low    | 3      | namesilo      |
+| eta.gift    | available | $14.99    | $14.99        | high           | low    | 3      | namesilo      |
+| bil.gift    | premium   | $132      | $132          | high           | low    | 3      | dynadot       |
+| hdl.gift    | available | $20.98    | $23.98        | high           | low    | 3      | namecheap     |
 | byu.gift    | premium   | $153.60   | $153.60       | medium         | low    | 3      | namesilo      |
-| hue.gift    | available | $20.98    | $23.98        | high           | low    | 3      | namecheap     |
+| hoo.gift    | available | $14.99    | $14.99        | medium         | low    | 3      | namesilo      |
 | caa.gift    | premium   | $132      | $132          | high           | low    | 3      | dynadot       |
-| itv.gift    | available | $14.99    | $14.99        | high           | medium | 3      | namesilo      |
+| hue.gift    | available | $20.98    | $23.98        | high           | low    | 3      | namecheap     |
 | cub.gift    | premium   | $156      | $156          | high           | low    | 3      | namecheap     |
-| jot.gift    | available | $16.58    | $16.58        | high           | low    | 3      | porkbun       |
+| itv.gift    | available | $14.99    | $14.99        | high           | medium | 3      | namesilo      |
 | eon.gift    | premium   | $153.60   | $153.60       | high           | low    | 3      | namesilo      |
-| nun.gift    | available | $14.99    | $14.99        | high           | low    | 3      | namesilo      |
-| fop.gift    | premium   | $150      | $150          | medium         | low    | 3      | name.com      |
-| nyt.gift    | available | $14.99    | $14.99        | high           | low    | 3      | namesilo      |
+| jot.gift    | available | $16.58    | $16.58        | high           | low    | 3      | porkbun       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,030 live domains                        |
+| 1,000-row public sample | 35,425 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 140 high-demand names under $2,500         |
+| Basic exported fields   | 148 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIFT One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
